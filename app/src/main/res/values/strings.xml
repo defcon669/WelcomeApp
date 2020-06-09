@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WelcomeApp</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Continue">Continue</string>
+    <string name="mipmapImg">Image1</string>
+    <string name="Text"></string>
+    <string name="Loading">Loading...</string>
+</resources>
